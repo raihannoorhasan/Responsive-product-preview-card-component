@@ -87,10 +87,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-
   background-color: var(--primary-clr-cream);
-
-  /* font-family: "Fraunces", serif; */
   font-family: "Montserrat", sans-serif;
 }
 
